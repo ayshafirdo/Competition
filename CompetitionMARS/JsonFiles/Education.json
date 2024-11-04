@@ -1,0 +1,123 @@
+﻿[
+  {
+    "id": "validdata1",
+    "CollegeName": "XYZ",
+    "CountryOfCollege": "Belgium",
+    "Title": "B.A",
+    "Degree": "abc",
+    "YearOfGraduation": 2004
+  },
+  {
+    "id": "validdata2",
+    "CollegeName": "LMN",
+    "CountryOfCollege": "Belgium",
+    "Title": "BArch",
+    "Degree": "lmn",
+    "YearOfGraduation": 2009
+  },
+  {
+    "id": "validdata3",
+    "CollegeName": "PQR",
+    "CountryOfCollege": "Algeria",
+    "Title": "BFA",
+    "Degree": "MNO",
+    "YearOfGraduation": 2007
+  },
+  {
+    "id": "invaliddata",
+    "CollegeName": "@#$$%%^",
+    "CountryOfCollege": "Belgium",
+    "Title": "BArch",
+    "Degree": "****",
+    "YearOfGraduation": 2006
+  },
+  {
+    "id": "editdata",
+    "CollegeName": "bus",
+    "CountryOfCollege": "Belgium",
+    "Title": "B.A",
+    "Degree": "bcabjhg",
+    "YearOfGraduation": 2004
+  },
+  {
+    "id": "editinvaliddata",
+    "CollegeName": "apple",
+    "CountryOfCollege": "Belgium",
+    "Title": "B.A",
+    "Degree": "!@#$%",
+    "YearOfGraduation": 2004
+  },
+  {
+    "id": "editdatamissingfield",
+    "CollegeName": "action",
+    "CountryOfCollege": "Albania",
+    "Title": "B.A",
+    "Degree": "",
+    "YearOfGraduation": 2004
+  },
+  {
+    "id": "largepayload",
+    "CollegeName": "ABC University",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "This is large,dshcbjsabfdsjfwjbcwjbfuwegfuwabcknekahfiugfubcjwnckwajdiehdwugfawbjDwkjehfuegebiwufhugruebjerugfuwgeufgiehgfierhfehfjerbjerhfigrutrhwuifhwkenfwkejrieugfeuwihdkwji3heriuygfbdgeirutyieughdksnckanxniweh",
+    "YearOfGraduation": 2022
+  },
+  {
+    "id": "validdata4",
+    "CollegeName": "bus",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "This",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata5",
+    "CollegeName": "apple",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "pencil",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata6",
+    "CollegeName": "action",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "pen",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata7",
+    "CollegeName": "astronomy",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "pit",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata8",
+    "CollegeName": "astrophysics",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "pitty",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata9",
+    "CollegeName": "cat",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "bat",
+    "YearOfGraduation": 2023
+  },
+  {
+    "id": "validdata10",
+    "CollegeName": "SAT",
+    "CountryOfCollege": "Belgium",
+    "Title": "BFA",
+    "Degree": "API",
+    "YearOfGraduation": 2023
+  }
+
+]

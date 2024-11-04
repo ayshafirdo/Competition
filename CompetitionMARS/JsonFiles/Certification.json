@@ -1,0 +1,116 @@
+﻿[
+  {
+    "id": "validdata1",
+    "CertificateOrAward": "ABC",
+    "CertifiedFrom": "Google",
+    "CertificationYear": 2021
+  },
+  {
+    "id": "validdata2",
+    "CertificateOrAward": "Google",
+    "CertifiedFrom": "Google123",
+    "CertificationYear": 2010
+  },
+  {
+    "id": "invaliddata",
+    "CertificateOrAward": "!@#$%",
+    "CertifiedFrom": "*%*%*%",
+    "CertificationYear": 2009
+  },
+  {
+    "id": "largedata",
+    "CertificateOrAward": "avdsjaGDJASGHDIWIDFUXJKNAKSHFIHERUGFUESRJVSJKksdnvkdnfghierhygiweajrfkearnfjerhgihwerouiocfkernvjervbjhguwkeyfgbcwehjgrhgrdsnbvdcnfgyhujgvcgbhnbvggfvbhnhgftgyutryghujgfcvbnvbcfdsertyuhjgvcfghvcfdghvcxzdsrtgyhbvcxzsawertyuioklmnbvcxdsertyuijhbv",
+    "CertifiedFrom": "XYZ",
+    "CertificationYear": 2009
+  },
+  {
+    "id": "editdata",
+    "CertificateOrAward": "123",
+    "CertifiedFrom": "567",
+    "CertificationYear": 2006
+  },
+  {
+    "id": "editinvaliddata",
+    "CertificateOrAward": "visual",
+    "CertifiedFrom": "!@34%&",
+    "CertificationYear": 2008
+  },
+  {
+    "id": "editdatamissingfield",
+    "CertificateOrAward": "bike",
+    "CertifiedFrom": "",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "validdata3",
+    "CertificateOrAward": "ABCDEFG",
+    "CertifiedFrom": "certificate",
+    "CertificationYear": 2008
+  },
+  {
+    "id": "largepayload",
+    "CertificateOrAward": "ABCDEFGdhcbjdxcbanxkadsnxkdsnxjbhgfyrewskjcnfbvgyhujihughuguguyuhjnnjhuygtrdswertyuiocvcbcjhfvfyudydtuyduyduyduydtuduydgjcmkhnlijkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkcccccccccccccccccccccccccccccccyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "CertifiedFrom": "certificate",
+    "CertificationYear": 2008
+  },
+  {
+    "id": "validdata4",
+    "CertificateOrAward": "loyola",
+    "CertifiedFrom": "cert",
+    "CertificationYear": 2008
+  },
+  {
+    "id": "validdata5",
+    "CertificateOrAward": "iit",
+    "CertifiedFrom": "centi",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "validdata6",
+    "CertificateOrAward": "iimqyfyxva",
+    "CertifiedFrom": "oracle",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "validdata7",
+    "CertificateOrAward": "cyclone",
+    "CertifiedFrom": "bun",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "validdata8",
+    "CertificateOrAward": "cycle",
+    "CertifiedFrom": "bunny",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "validdata9",
+    "CertificateOrAward": "bike",
+    "CertifiedFrom": "funny",
+    "CertificationYear": 2007
+  },
+  {
+    "id": "editdata5",
+    "CertificateOrAward": "like",
+    "CertifiedFrom": "fun",
+    "CertificationYear": 2009
+  },
+  {
+    "id": "editdata6",
+    "CertificateOrAward": "like",
+    "CertifiedFrom": "apple",
+    "CertificationYear": 2009
+  },
+  {
+    "id": "validdata11",
+    "CertificateOrAward": "visual",
+    "CertifiedFrom": "studio",
+    "CertificationYear": 2009
+  },
+  {
+    "id": "validdata12",
+    "CertificateOrAward": "c#",
+    "CertifiedFrom": "amazon",
+    "CertificationYear": 2009
+  }
+]
